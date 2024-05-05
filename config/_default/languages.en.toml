@@ -1,0 +1,27 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Jack McNulty"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2006 January 2"
+#  logo = "img/logo.png"
+  description = "Jack McNulty's Website"
+  copyright = "&copy; 2024 Jack McNulty"
+
+[author]
+  name = "Jack McNulty"
+#  image = "img/blowfish_logo.png"
+  headline = "Technology Student • Mechanic • Cybersecurity"
+  bio = "Student • Mechanic • Gamer"
+
+  links = [
+    { email = "mailto:mcnlty@pm.me" },
+    { github = "https://github.com/mcnlty" },
+    { gitlab = "https://gitlab.com/mcnlty" },
+    { linkedin = "https://linkedin.com/in/jack-mcnulty-1017772b4/" },
+    { mastodon = "https://mastodon.social/@mcnlty" },
+]

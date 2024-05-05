@@ -1,0 +1,89 @@
+colorScheme = "blowfish"
+defaultAppearance = "dark"
+autoSwitchAppearance = true
+
+enableSearch = false
+enableCodeCopy = false
+
+mainSections = ["about"]
+# robots = ""
+
+[header]
+  layout = "basic" # valid options: basic, fixed, fixed-fill, fixed-gradient, fixed-fill-blur
+
+[footer]
+  showMenu = false
+  showCopyright = true
+  showThemeAttribution = true
+  showAppearanceSwitcher = false
+  showScrollToTop = false
+
+[homepage]
+  layout = "profile"
+  # homepageImage = "img/priyakdey.png" # used in: hero, and card
+  showRecent = false
+  showRecentItems = 10
+  showMoreLink = false
+  showMoreLinkDest = "/posts"
+
+[article]
+  showDate = false
+  showViews = false
+  showLikes = false
+  showDateUpdated = false
+  showAuthor = true
+  showBreadcrumbs = false
+  showDraftLabel = false
+  showEdit = false
+  #editAppendPath = true
+  showHeadingAnchors = false
+  showPagination = false
+  invertPagination = false
+  showReadingTime = false
+  showTableOfContents = false
+  showTaxonomies = false 
+  showWordCount = false
+  showSummary = false
+
+[list]
+  showBreadcrumbs = false
+  showSummary = false
+  showTableOfContents = false
+  showCards = false
+  groupByYear = false
+
+[sitemap]
+  excludedKinds = ["taxonomy", "term"]
+
+[taxonomy]
+  showTermCount = true
+
+[firebase]
+  # apiKey = "XXXXXX"
+  # authDomain = "XXXXXX"
+  # projectId = "XXXXXX"
+  # storageBucket = "XXXXXX"
+  # messagingSenderId = "XXXXXX"
+  # appId = "XXXXXX"
+  # measurementId = "XXXXXX"
+
+[fathomAnalytics]
+  # site = "ABC12345"
+  # domain = "llama.yoursite.com"
+
+[umamiAnalytics]
+  # websiteid = "8e53c07c-efd6-4ebb-89d8-7cc52bbf6130"
+  # domain = "https://eu.umami.is/script.js"
+
+[buymeacoffee]
+  # identifier = ""
+  # globalWidget = true
+  # globalWidgetMessage = "Hello"
+  # globalWidgetColor = "#FFDD00"
+  # globalWidgetPosition = "Right"
+
+[verification]
+  # google = ""
+  # bing = ""
+  # pinterest = ""
+  # yandex = ""
