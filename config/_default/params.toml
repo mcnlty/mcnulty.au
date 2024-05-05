@@ -72,8 +72,8 @@ mainSections = ["about"]
   # domain = "llama.yoursite.com"
 
 [umamiAnalytics]
-  # websiteid = "8e53c07c-efd6-4ebb-89d8-7cc52bbf6130"
-  # domain = "https://eu.umami.is/script.js"
+  websiteid = "8e53c07c-efd6-4ebb-89d8-7cc52bbf6130"
+  domain = "https://eu.umami.is/script.js"
 
 [buymeacoffee]
   # identifier = ""
