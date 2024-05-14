@@ -3,11 +3,10 @@
   pageRef = "about"
   weight = 1
 
-
-#[[main]]
-#  name = "Resume"
-#  pageRef = "resume"
-#  weight = 2
+[[main]]
+  name = "Git"
+  pageRef = "https://git.mcnulty.au/mcnlty/"
+  weight = 2
 
 # [[footer]]
 #   name = "Tags"
