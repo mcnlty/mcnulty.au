@@ -5,7 +5,7 @@
 
 [[main]]
   name = "Git"
-  pageRef = "https://git.mcnulty.au/mcnlty/"
+  url = "https://git.mcnulty.au/mcnlty/"
   weight = 2
 
 # [[footer]]
