@@ -21,5 +21,6 @@ title = "Jack McNulty"
   links = [
     { email = "mailto:mcnlty@pm.me" },
     { github = "https://github.com/mcnlty" },
+    { codeberg = "https://codeberg.org/mcnlty" },
     { mastodon = "https://infosec.exchange/@mcnlty" },
 ]
